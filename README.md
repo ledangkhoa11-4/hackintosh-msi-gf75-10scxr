@@ -45,7 +45,6 @@ Thank you [Forte500](https://github.com/Forte500) for your amazing repository [H
 - Internal camera
 - Ethernet port
 - Continuity: Handoff & Universal clipboard
-- HDMI port (I fixed it  ^^)
 - AirPlay: `iPad -> Mac` & `Mac -> TV`
 - Sidecar wired
 - *Sidecar wireless with broadcom card only
@@ -57,7 +56,8 @@ Thank you [Forte500](https://github.com/Forte500) for your amazing repository [H
 - Sidecar Wireless, Universal Control, *[Apple Watch Unlock](https://github.com/ts1/BLEUnlock), *[Instant Hotspot](https://openintelwireless.github.io/itlwm/FAQ.html#limitation-of-airportitlwm-kext) with intel wifi card
 - Camera (I'm working on it)
 - Widevine DRM in safari (use a chromium-based browser or Firefox instead)
-
+- <s>HDMI port</s> (I fixed it  ^^)
+- <s>Fan control</s> (I fixed it  ^^)
 ### ⚠️ Not tested
 - Apple Watch Unlock, Universal Control, Instant Hotspot with broadcom card
 
